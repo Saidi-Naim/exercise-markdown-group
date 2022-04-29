@@ -12,8 +12,7 @@
 
 <br>
 
-## [What is it?](#what-is-it)
-
+## <a name="#what-is-it">What is it?</a>
 
 <br>
 <br>
