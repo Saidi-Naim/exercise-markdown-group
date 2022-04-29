@@ -1,3 +1,4 @@
+[Go to Readme](README.md)
 # Unordered List
 - First
 - Second
@@ -11,12 +12,26 @@
     - Two
     - Three
 
-### Links
-It's my first [Link](https://github.com/Saidi-Naim/exercise-markdown)
+## Links
+It's my first [Link](https://github.com/Saidi-Naim/exercise-markdown) 
 
-#### BeCode
+
 ![BeCode Logo](https://becode.org/app/uploads/2021/06/logo-becode.png "BeCode")
 
 ##### Love Coding
 ![Love Coding](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
+```<html>
+    <head>
+        <h6>Its a code :)</h6>
+
+        <br />
+
+        <ol>
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li>
+        </ol>
+    </head>
+<html>```
 
