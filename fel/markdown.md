@@ -107,4 +107,4 @@ To create an unordered list, add dashes (-) in front of line items. Indent one o
   </tbody>
 </table>
 
-![markdown](/markdown1-870x400.png)
+![markdown](./markdown1-870x400.png)
