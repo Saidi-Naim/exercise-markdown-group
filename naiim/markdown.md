@@ -11,7 +11,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 - Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
 - Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
-## how to try it
+## how to try it ?
 
 The best way to get started with Markdown is to use it. That’s easier than ever before thanks to a variety of free tools.
 
@@ -20,7 +20,7 @@ You don’t even need to download anything. There are several online Markdown ed
 ![Dillinger](https://mdg.imgix.net/assets/images/dillinger.png?auto=format&fit=clip&q=40&w=1080)
 
 ## Markdown documentation
-Basic Syntax Markdown [Link](https://www.markdownguide.org/basic-syntax/#line-break-best-practices) 
+[Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/#line-break-best-practices) 
 
 ## What’s Markdown Good For ?
 
@@ -53,6 +53,8 @@ Some examples of what you can do with Markdown.
 
 ## Love Coding
 ![Love Coding](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
+### Code:
 
 ```<html>
     <head>
