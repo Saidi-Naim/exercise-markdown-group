@@ -17,5 +17,6 @@ Markdown is a lightweight markup language that you can use to add formatting ele
  - create content for a website
  - produce print-ready documents.
 
+ 
  ![animated image](https://pifop.com/images/markdown-introduction.gif)
  
