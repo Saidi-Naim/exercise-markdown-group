@@ -1,4 +1,4 @@
-[Check Markdown](markdown.md)
+[Check Markdown](Markdown.md)
 
 # exercise-markdown
 
